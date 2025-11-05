@@ -1,7 +1,12 @@
 subitems:
   - title: Home
     url: /index
+  - title: Usare AI
+    url: /Usare_AI
   - title: Example page
     url: /example_page
+  - title: Example page
+    url: /example_page
+    
 
   
