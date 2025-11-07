@@ -5,8 +5,11 @@ subitems:
     url: /Usare_AI
   - title: Scegliere relatore e argomento
     url: /Relatore_Argomento
-  - title: Example page
-    url: /example_page
-    
-
-  
+  - title: Software
+    url: /Software
+  - title: Tipi di tesi
+    url: /Tipi_di_tesi
+# - title: Software
+#    url: /Software
+# - title: Software
+#    url: /Software
