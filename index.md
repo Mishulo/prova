@@ -11,9 +11,10 @@ Non sono richieste particolari competenze informatiche per seguire questa guida,
 
 Nota bene. I software che propongo e in generale l'approccio per la scrittura e lo studio sono solo un suggerimento. Potete cavarvela benissimo senza usare software e con solo carta e penna. Spero comunque che queste indicazioni vi siano utili. Alcune saranno forse più superflue (come ad esempio la scelta del relatore), altre magari sono più utili anche da un punto di vista pratico.
 
-E allora... Cominciamo! Questa guida è articolata in più pagine, di modo da aiutarti a leggerla nei tuoi tempi e nel modo che preferisci.
+E allora... Cominciamo! Questa guida è articolata in più pagine, di modo da aiutarti a leggerla nei tuoi tempi e nel modo che preferisci. Trovi i capitoli nel menu a sinistra, ma per praticità eccoli anche qui sotto:
 
 1. [Cosa devo sapere prima di iniziare a lavorare alla tesi?](Relatore_Argomento)
 1. [Posso usare l'AI per aiutarmi a scrivere la tesi?](Usare_AI)
 1. [Tipi di tesi](Tipi_di_tesi)
 1. [Di che software avrò bisogno?](Software)
+2. [Le fonti bibliografiche](Le_fonti)
