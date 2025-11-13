@@ -19,4 +19,5 @@ Ecco. Ora torniamo al presente. Viviamo costantemente connessi, l'idea di pagare
 Ecco, i software per la gestione della bibliografia servono esattamente a questo. Io suggerisco (come detto nella sezione [Software](Software)) un programma chiamato Zotero, gratuito, multipiattaforma e altamente configurabile.
 
 Scaricate sul vostro PC o Mac Zotero, installatelo, e registratevi al sito creando un account. Più o meno, quando avrete concluso, la schermata che vi troverete davanti dovrebbe essere come questa.
-{% include image.html file="/assets/img/wizards.png" caption="bllbllbll" alt="bllbllbllbllbll" max-width="10" %}
+
+{% include image.html file="/assets/img/Zotero1.png" caption="Una videata di Zotero dopo l'installazione" alt="Zotero" max-width="10" %}
