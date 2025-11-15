@@ -14,7 +14,10 @@ Nota bene. I software che propongo e in generale l'approccio per la scrittura e 
 E allora... Cominciamo! Questa guida è articolata in più pagine, di modo da aiutarti a leggerla nei tuoi tempi e nel modo che preferisci. Trovi i capitoli nel menu a sinistra, ma per praticità eccoli anche qui sotto:
 
 1. [Cosa devo sapere prima di iniziare a lavorare alla tesi?](Relatore_Argomento)
-1. [Posso usare l'AI per aiutarmi a scrivere la tesi?](Usare_AI)
-1. [Tipi di tesi](Tipi_di_tesi)
-1. [Di che software avrò bisogno?](Software)
-2. [Le fonti bibliografiche](Le_fonti)
+2. [Posso usare l'AI per aiutarmi a scrivere la tesi?](Usare_AI)
+3. [Tipi di tesi](Tipi_di_tesi)
+4. [Di che software avrò bisogno?](Software)
+5. [Le fonti bibliografiche](Le_fonti)
+6. [Gestire la bibliografia](Gestire_biblio)
+7. [Usare gli appunti](Second_brain)
+8. [Da dove inizio a scrivere](example_page)
