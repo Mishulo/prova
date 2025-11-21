@@ -23,8 +23,11 @@ Se non volete usare i software, potete cavarvela benissimo (giuro) con carta e p
 {% include callout.html type="important" content="Una nota a margine. Molto di quello che trovate qui di seguito l'ho preso da un flusso di lavoro trovato online, scritto da Alexandra Phelan, ricercatrice americana specializzata in salute globale. Per correttezza, e anche per darvi un qualcosa per eventualmente approfondire ulteriormente, vi lascio qui il [link alla pagina dell'autrice](https://medium.com/@alexandraphelan/an-updated-academic-workflow-zotero-obsidian-cffef080addd) (in inglese)." %}
 
 ## Cos'è Obsidian e perché ci aiuta
-Obsidian è sostanzialmente un editor di testo. In pratica come Word, Pages, quello che usate abitualmente... ma utilizza un formato diverso, che si chiama Markdown. In termini tecnici e solo vagamente simili a quelli che usa Wikipedia per definirlo, è un linguaggio di markup con una sintassi del testo semplice progettata
+Obsidian è sostanzialmente un editor di testo. In pratica come Word, Pages, quello che usate abitualmente... ma utilizza un formato diverso, che si chiama Markdown. In termini tecnici e solo vagamente simili a quelli che usa Wikipedia per definirlo, Markdown è un linguaggio di markup con una sintassi del testo semplice. Chiarissimo, no? In breve Markdown è un formato di testo in cui si fa più attenzione al contenuto che alla forma. Il vantaggio di Obsidian è che consente di creare dei collegamenti bidirezionali fra le pagine. Anche qui, se mi sembra una cosa alquanto simile a Wikipedia, non avete torto...
+
+A questo punto abbiamo due possibilità. Una è un po' più semplice, l'altra è un po' più da smanettoni. Prometto che però non è impossibile da fare e che se volete fermarvi alla parte "semplice" non c'è nessun problema. Il sistema "da smanettoni" aggiunge una cosa in più che non è assolutamente necessaria e che serve solo a "automatizzare" una cosa.
+
+### Il sistema semplice
+Avete letto un articolo. Avete evidenziato le parti interessanti e ci avete riflettuto un po'. È il caso di rendere utile questo lavoro! Apriamo Obsidian, creiamo una cartella che chiameremo (ad esempio) _source-notes_ e inseriamo una nota in cui scriviamo i dati dell'articolo. Come titolo della nota possiamo mettere il titolo dell'articolo che abbiamo letto, o meglio ancora (ad esempio) le prime parole del titolo e l'anno, per facilitarci a riconoscerla.
 
 ## Sistemiamo Zotero e Obsidian
-
-
