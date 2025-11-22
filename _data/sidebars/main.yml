@@ -11,5 +11,9 @@ subitems:
     url: /Software
   - title: Le fonti
     url: /Le_fonti
-  - title: Usare la bibliografia
+  - title: Gestire la bibliografia
     url: /Usare_biblio
+  - title: Usare gli appunti
+    url: /Second_Brain
+  - title: Iniziare a scrivere
+    url: /Iniziare_a_scrivere
